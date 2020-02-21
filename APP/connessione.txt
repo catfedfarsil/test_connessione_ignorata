@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 yeah sql server MASTER PROD
 non deve cambiare
-e non cambierà: mi aspetto di non vedere qs riga in remoto
-=======
-yeah sql server DEV non più 1 ma DEV
-dev dev dev
-oh oh perbaccooh dev dev
->>>>>>> dev
