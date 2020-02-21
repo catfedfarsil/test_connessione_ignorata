@@ -1,4 +1,2 @@
 connection to PROD PROD !
 [github][master]
-questa non deve cambiarsi mai.
-"DEV DEV DEV!" 
