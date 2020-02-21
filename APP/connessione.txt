@@ -1,2 +1,0 @@
-yeah sql server MASTER PROD
-non deve cambiare
