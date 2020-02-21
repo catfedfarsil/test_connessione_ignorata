@@ -1,2 +1,3 @@
 yeah sql server MASTER PROD
 non deve cambiare
+e non cambierà: mi aspetto di non vedere qs riga in remoto
